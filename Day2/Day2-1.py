@@ -1,4 +1,10 @@
+from collections import Counter
+
 duplicates = 0
 triplets = 0
 
-with open('input.txt') 
+
+
+#file = open('input.txt')
+#for line in file.readlines():
+#    print (line)
